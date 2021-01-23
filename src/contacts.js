@@ -1,4 +1,4 @@
-const contacts = [
+let contacts = [
   {
     name: "Beyonce",
     imgURL:
@@ -21,3 +21,5 @@ const contacts = [
     email: "gmail@chucknorris.com"
   }
 ];
+
+export default contacts;
